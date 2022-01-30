@@ -4,7 +4,7 @@
 
 ### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](joaopaulofarias544@gmail.com)
+](https://joaopaulofarias544@gmail.com)
 
 ### Linguagens que eu uso 
 <div style="display: inline_block"><br/>
