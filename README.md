@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Paulo 👋
 ·💻 Estudando HTML, CSS, PYTHON <br>
-·📫 Contate-me no email; joaopaulofarias544@gmail.com <br>
+·📫 Contate-me no email; joaopaulofariassilveira@gmail.com <br>
 ·😍 Apaixonado por tecnologia
 
 ![JoaoPauloFarias GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloFarias&show_icons=true&theme=dracula)
