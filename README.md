@@ -1,5 +1,5 @@
 ## Olá! Eu sou o João Paulo 👋
-·💻 Estudando HTML, CSS, PYTHON <br>
+·💻 Estudando HTML, CSS, JAVASCRIPT, PYTHON <br>
 ·📫 Contate-me no email; joaopaulofariassilveira@gmail.com <br>
 ·😍 Apaixonado por tecnologia
 
