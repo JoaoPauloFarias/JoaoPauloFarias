@@ -48,4 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoPauloFarias}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9d1d9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=281DC9&height=120&section=footer"/>
