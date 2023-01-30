@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=281DC9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=281DC9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+João+Paulo+Farias;Eu+tenho+18+anos;Eu+sou+de+Santa+Cruz,+PE;Sou+estudante+de+desenvolvimento+de+sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+João+Paulo+Farias;Eu+tenho+18+anos;Eu+sou+de+Santa+Cruz,+PE;Sou+estudante+de+desenvolvimento+de+sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloFarias&theme=dracula&show_icons=true&count_private=true&hide_border=true&title_color=281DC9&icon_color=281DC9&text_color=c9d1d9&bg_color=0d1117" alt="João Paulo Farias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloFarias&layout=compact&hide_border=true&title_color=281DC9&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloFarias&theme=dracula&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="João Paulo Farias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloFarias&layout=compact&hide_border=true&title_color=00ffff&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoPauloFarias&bg_color=000000&color=ffffff&line=1f26ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoPauloFarias&bg_color=000000&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoPauloFarias&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -48,4 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoPauloFarias}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=281DC9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
